@@ -1,16 +1,15 @@
-### Hi there 👋
+<p align='center'><a href="https://develotters.com/"><img src="https://raw.githubusercontent.com/jonatan-ivanov/jonatan-ivanov/main/assets/otter-300.png" /></a></p>
 
-<!--
-**jonatan-ivanov/jonatan-ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Jonatan 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Enthusiastic Software Engineer
+- 🔭 Working in the [Spring Cloud Team](https://github.com/spring-cloud)
+- ☕ Co-Organizer of [Seattle Java User Group](https://www.meetup.com/seajug/) 
+- 🌎 Originally from Hungary, now in Seattle
+- 🌱 I’m currently learning playing the guitar 🎸
+- 👯 I’m looking to collaborate on Java, Spring, Cloud and related technologies
+- 🤔 I’m looking for help with music theory
+- 💬 Ask me about Java, Spring, Cloud and related technologies
+- 📫 How to reach me: [Twitter(jonatan_ivanov)](https://twitter.com/jonatan_ivanov), [email](mailto:jonatan.ivanov@gmail.com), and various places on the Internet :)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I'm a certified dragon trainer, seriously 😃🐉
