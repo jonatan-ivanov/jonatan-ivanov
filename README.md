@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on Java, Spring, Cloud and related technologies
 - 🤔 I’m looking for help with music theory
 - 💬 Ask me about Java, Spring, Cloud and related technologies
-- 📫 How to reach me: [Twitter(jonatan_ivanov)](https://twitter.com/jonatan_ivanov), [email](mailto:jonatan.ivanov@gmail.com), and various places on the Internet :)
+- 📫 How to reach me: [Twitter(@jonatan_ivanov)](https://twitter.com/jonatan_ivanov), [email](mailto:jonatan.ivanov@gmail.com), and various places on the Internet :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a certified dragon trainer, seriously 😃🐉
+
+Check out my [blog (develotters.com)](https://develotters.com/), follow me on [Twitter(@jonatan_ivanov)](https://twitter.com/jonatan_ivanov)
