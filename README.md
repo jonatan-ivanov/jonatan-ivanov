@@ -1,4 +1,4 @@
-<p align='center'><a href="https://develotters.com/"><img src="https://raw.githubusercontent.com/jonatan-ivanov/jonatan-ivanov/main/assets/otter-300.png" /></a></p>
+<p align='center'><a href="https://develotters.com/"><img width="450" src="https://raw.githubusercontent.com/jonatan-ivanov/jonatan-ivanov/main/assets/develOtter.png" /></a></p>
 
 # Hey, I'm Jonatan 👋
 
