@@ -3,7 +3,7 @@
 # Hey, I'm Jonatan 👋
 
 - 🧑‍💻 Enthusiastic Software Engineer
-- 🔭 Working in the [Spring Cloud Team](https://github.com/spring-cloud)
+- 🔭 Working in the [Spring Engineering Team](https://spring.io/team)
 - ☕ Co-Organizer of [Seattle Java User Group](https://www.meetup.com/seajug/) 
 - 🌎 Originally from Hungary, now in Seattle
 - 🌱 I’m currently learning playing the guitar 🎸
